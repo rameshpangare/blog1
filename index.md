@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome myblog1
 
 You can use the [editor on GitHub](https://github.com/rameshpangare/blog1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
