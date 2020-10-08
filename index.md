@@ -1,37 +1,9 @@
-## Welcome myblog1
+#.  NATURE
 
-You can use the [editor on GitHub](https://github.com/rameshpangare/blog1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nothing compares to nature‘s beauty, as these famous quotes about nature agree. From spring‘s hopeful new blooms and fall’s exquisite array of colors to winter’s magic and summer’s energy, each season abounds with different types of natural beauty to explore and admire. However, after being totally cooped up during COVID-19 quarantine for so many weeks now, you might be starting to forget what being in nature even feels like—which is where these best nature quotes come in!
 
-### Markdown
+From enchanting nature’s beauty quotes that evoke visions of lush meadows full of brilliantly-colored flowers or dense forests with sky-high trees to famous quotes about nature’s ever-present—and absolutely fundamental—role in our lives, these 101 quotes about nature will have you itching to get off your couch and get outside. For famous quotes about nature, we have them here!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rameshpangare/blog1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
